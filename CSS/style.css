@@ -53,6 +53,7 @@
 .main-nav-link.nav-cta:active {
   background-color: #cf711f;
 }
+
 /**************************/
 /* HERO SECTION */
 /**************************/
@@ -505,7 +506,7 @@
       rgba(235, 150, 76, 0.35),
       rgba(231, 126, 35, 0.35)
     ),
-    url("img/eating.jpg");
+    url("../img/eating.jpg");
   background-size: cover;
   background-position: center;
 }
